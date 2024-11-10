@@ -1,0 +1,48 @@
+# Image Restoration Tasks
+
+## Homepage Images
+- [ ] Restore logo.png to public/images/
+- [ ] Restore burger.png (top-left diamond)
+- [ ] Restore onion-rings.png (top-right diamond)
+- [ ] Restore pizza.png (bottom-left diamond)
+- [ ] Restore spicy-burger.png (bottom-right diamond)
+
+## Burger Section Images
+- [ ] Restore bbq-bacon-burger.png (14 CHF)
+- [ ] Restore classic-cheeseburger.png (12 CHF)
+- [ ] Restore double-xxl-burger.png (18 CHF)
+- [ ] Restore spicy-jalapeno-burger.png (16 CHF)
+- [ ] Restore mushroom-swiss-burger.png (16 CHF)
+- [ ] Restore veggie-delight-burger.png (14 CHF)
+
+## Pizza Section Images
+- [ ] Restore margherita.png (12 CHF)
+- [ ] Restore quattro-formaggi.png (14 CHF)
+- [ ] Restore prosciutto-crudo.png (16 CHF)
+- [ ] Restore pepperoni-passion.png (16 CHF)
+- [ ] Restore pizza-tonno.png (16 CHF)
+- [ ] Restore vegetariana.png (14 CHF)
+
+## Sides Section Images
+- [ ] Restore french-fries.png (6 CHF)
+- [ ] Restore sweet-potato-fries.png (8 CHF)
+- [ ] Restore curly-fries.png (6 CHF)
+- [ ] Restore onion-rings-side.png (8 CHF)
+- [ ] Restore mozzarella-sticks.png (8 CHF)
+- [ ] Restore bbq-wings.png (10 CHF)
+- [ ] Restore spicy-wings.png (10 CHF)
+- [ ] Restore caprese-salad.png (12 CHF)
+- [ ] Restore panzanella-salad.png (12 CHF)
+
+## Component Updates
+- [ ] Update MainPage.tsx with correct image paths
+- [ ] Update BrowsePage.tsx with all sections (Burgers, Pizze, Sides)
+- [ ] Ensure proper scroll functionality for each section
+- [ ] Verify all prices and names are correct
+
+## Testing
+- [ ] Verify all homepage images load correctly
+- [ ] Test burger section scroll and display
+- [ ] Test pizza section scroll and display
+- [ ] Test sides section scroll and display
+- [ ] Verify responsive design on different screen sizes

@@ -1,0 +1,14 @@
+# Scroll Functionality Fixes
+- [x] Adjust scroll limit calculation in updateScrollButtons
+  - Remove Math.ceil to prevent rounding issues
+  - Add small buffer (1-2px) to ensure complete scroll
+- [x] Update scroll increment value
+  - Calculate based on item width instead of fixed 300px
+  - Ensure smooth transition between items
+- [x] Improve scroll button state management
+  - Add proper threshold for end detection
+  - Ensure buttons remain active until absolute end
+- [ ] Test scroll functionality
+  - Verify right scroll reaches last item
+  - Check smooth scrolling behavior
+  - Validate button states at all positions

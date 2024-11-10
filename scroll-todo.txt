@@ -1,0 +1,21 @@
+# Scroll Functionality Fixes
+1. Adjust scroll limit detection
+   - [x] Modify buffer in updateScrollButtons to ensure rightmost items are reachable
+   - [x] Test edge cases with different container widths
+   - [x] Verify scroll position calculation accuracy
+
+2. Improve scroll increment calculation
+   - [x] Verify container width calculation is accurate
+   - [x] Ensure increment allows reaching all items
+   - [x] Test with different screen sizes
+
+3. Testing and Verification
+   - [x] Test scrolling to rightmost burger
+   - [x] Verify smooth scrolling behavior
+   - [x] Check button states at all scroll positions
+   - [x] Test responsiveness on different screen sizes
+
+4. Documentation
+   - [x] Document scroll implementation
+   - [x] Add comments for scroll calculations
+   - [x] Document testing results

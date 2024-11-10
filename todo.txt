@@ -1,0 +1,25 @@
+# Homepage (MainPage)
+- [x] Add logo to top left corner
+- [x] Add "Order Now" button to top right corner (with navigation)
+- [x] Implement diamond pattern with 4 food images
+- [x] Add "Yumm... get something good" text in center
+- [x] Add centered "Order Now" button below text
+- [x] Ensure proper navigation to browse page
+
+# Browse Page (BrowsePage)
+- [x] Implement horizontal scrolling row of burger images
+- [x] Display exactly 4 burgers at once
+- [x] Create orange, larger navigation arrows
+- [x] Enable continuous scrolling to edges
+- [x] Load all 6 burger images correctly
+- [x] Display correct prices in CHF
+- [x] Add correct burger names and prices
+
+# Verification Tasks
+- [x] Test all image loading on MainPage
+- [x] Verify diamond pattern spacing and alignment
+- [x] Test all burger images loading on BrowsePage
+- [x] Verify scroll functionality on different screen sizes
+- [x] Test navigation between pages
+- [x] Verify price formatting and alignment
+- [x] Check responsive design on mobile devices
